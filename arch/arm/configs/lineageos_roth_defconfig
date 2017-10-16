@@ -1575,7 +1575,7 @@ CONFIG_WIFI_CONTROL_FUNC=y
 # CONFIG_B43 is not set
 # CONFIG_B43LEGACY is not set
 CONFIG_BCMDHD=y
-CONFIG_BCMDHD_FW_PATH="/system/vendor/firmware/bcm43241/fw_bcmdhd.bin"
+CONFIG_BCMDHD_FW_PATH="/system/vendor/firmware/fw_bcmdhd.bin"
 CONFIG_BCMDHD_NVRAM_PATH="/system/etc/nvram_43241.txt"
 CONFIG_BCMDHD_HW_OOB=y
 CONFIG_BCMDHD_INSMOD_NO_FW_LOAD=y
